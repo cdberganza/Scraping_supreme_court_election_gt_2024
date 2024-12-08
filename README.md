@@ -1,4 +1,4 @@
-# Scraping Selenium-Pandas Pipeline: Extraction, Transformation, and Analysis of Voting Data for the  Supreme Court Election in Guatemala 2024
+# Web Scraping Selenium-Pandas Pipeline: Extraction, Transformation, and Analysis of Voting Data for the  Supreme Court Election in Guatemala 2024
 
 ## Project Overview
 
